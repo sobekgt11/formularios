@@ -1,0 +1,14 @@
+cnpjCessionario: 12.345.678/0001-99
+dataCriacaoDoFormulario: '2024-05-14T21:04:30.406540'
+emailCessionario: example@cessionario.com
+fundos:
+- montante: 1000
+  nome: Fundo Exemplo 1
+  quantidadeCotas: 50
+- montante: 2000
+  nome: Fundo Exemplo 2
+  quantidadeCotas: 100
+hash: 470a329b75b89f51eea3adcd893e76bafd30e58cf8280d86aac6aaadb30a280c
+hashAssinador: ''
+nomeCessionario: "Distribuidor Cession\xE1rio Exemplo"
+status: Enviado

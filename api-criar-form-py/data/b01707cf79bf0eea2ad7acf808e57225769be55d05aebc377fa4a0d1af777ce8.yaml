@@ -1,0 +1,13 @@
+cnpjCessionario: 12.345.678/0001-90
+contaCedente: Conta Cedente 2
+contaCessionario: '123'
+dataCriacaoDoFormulario: '2024-05-14T21:20:12.833620'
+emailCessionario: contato@btgpactual.com
+fundos:
+- montante: '123'
+  nome: Fundo XYZ
+  quantidadeCotas: '123'
+hash: b01707cf79bf0eea2ad7acf808e57225769be55d05aebc377fa4a0d1af777ce8
+hashAssinador: ''
+nomeCessionario: Banco BTG Pactual
+status: Concluido
